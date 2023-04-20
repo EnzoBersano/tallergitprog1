@@ -5,7 +5,9 @@ salsa barbacoa
 lechuga
 tomate
 jamon
-pan:
+mayonesa
+chimichurri
+pan
 
 
 
